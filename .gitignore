@@ -1,0 +1,9 @@
+# Ignorar dependências do Node e do React
+**/node_modules/
+
+# Ignorar variáveis de ambiente (arquivos de senha/banco de dados)
+**/.env
+
+# Ignorar pastas de compilação do React (opcional, mas recomendado)
+frontend/build/
+frontend/dist/
